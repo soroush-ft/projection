@@ -2,8 +2,8 @@
 
 This repository contains an implementation of a method ("sample-and-separate") for computing approximations of projections of polytopes presented in the paper
 
-> Capacity Representation in Mid-term Planning Systems: Aggregation of Linear Formulations (2023)
-> by Soroush Fatemi-Anaraki, Martin Grunow, and Stefan Weltge
+> Capacity Representation in Sales and Operations Planning: Aggregation through Projection (2024)
+> 
 
 The main functionality is implemented in the file `projection.jl`.
 
