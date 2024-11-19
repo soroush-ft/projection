@@ -34,10 +34,10 @@ T = [1.0 1.0 0.0 0.0; 0.0 0.0 1.0 1.0]
 t = [0.0, 0.0]
 ```
 
-In order to replicate one of the instances from experiments in Section 4 of the paper, please consult the data contained in the `experiments-*` folders. As an example, instance 3 of Table 2 can be included via
+In order to replicate one of the instances from experiments in Section 4 of the paper, please consult the data contained in the `experiments/*` folders. As an example, instance 3 of table 2 can be included via
 
 ```julia
-include("experiments-2/instance-03.jl")
+include("experiments/single-stage/table-2/instance-03.jl")
 ```
 
 As explained in the paper, the following two parameters should be specified in the algorithm.
